@@ -154,16 +154,32 @@
 	}
 
 
-/* Nav */
+/* NavBar */
 
-.nav{
-	border-radius: 4px;
-		margin-bottom: 2em;
-		background: #515a4f;
+.navbar {
+		position: sticky;
+		top: 0;
+		z-index: 2;
 		text-align: center;
-		
-
+		padding: 5px;
 }
+
+.nav_button{
+		background-color: #70c7be;
+		border-radius: 4px;
+		border: 0;
+		color: #ffffff !important;
+		cursor: pointer;
+		display: inline-block;
+		font-weight: 400;
+		height: 2.85em;
+		line-height: 2.95em;
+		padding: 0 1.5em;
+		text-align: center;
+		text-decoration: none;
+		white-space: nowrap;
+}
+
 
 	/* Box */
 
