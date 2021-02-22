@@ -165,7 +165,7 @@
 }
 
 .nav_button{
-		background-color: #70c7be;
+		background-color: #58c09c;
 		border-radius: 4px;
 		border: 0;
 		color: #ffffff !important;
@@ -390,7 +390,7 @@
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: #70c7be;
+		background-color: #58c09c;
 		border-radius: 4px;
 		border: 0;
 		color: #ffffff !important;
@@ -641,3 +641,9 @@
 			}
 
 		}
+
+
+		/*EXpermintal shit*/
+.shadow{
+	text-shadow: 0px 0px 5px rgb(53, 53, 53);
+}
